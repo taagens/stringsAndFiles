@@ -1,0 +1,148 @@
+<TradeConfirmation>
+  <trade>
+    <Deal>DEAL</Deal>
+    <DealType>16</DealType>
+    <Side>L</Side>
+    <Product>2</Product>
+    <Status>0</Status>
+    <ReviseVer>0</ReviseVer>
+    <TradeID>17261239</TradeID>
+    <BlockID></BlockID>
+    <TraderID>18758382</TraderID>
+    <TraderName>"HUSHAM IBRAHIM"</TraderName>
+    <CounterpartyUUID>19430400</CounterpartyUUID>
+    <CounterpartyName>"PAUL YOON"</CounterpartyName>
+    <DateOfDeal>20181023</DateOfDeal>
+    <TimeOfDeal>92441</TimeOfDeal>
+    <TradeDate>20181023</TradeDate>
+    <DateConfirmed>20181023</DateConfirmed>
+    <TimeConfirmed>92441</TimeConfirmed>
+    <Bank1DealingCode>CAOT</Bank1DealingCode>
+    <Bank1Name>CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK HONG KONG BRANCH</Bank1Name>
+    <UserIdent1></UserIdent1>
+    <UserIdent2></UserIdent2>
+    <UserIdent3></UserIdent3>
+    <UserIdent4></UserIdent4>
+    <PrimeBrokerDealingCode></PrimeBrokerDealingCode>
+    <PrimeBrokerName></PrimeBrokerName>
+    <Currency1>USD</Currency1>
+    <Currency2></Currency2>
+    <NearAmtDealt>15000000.00</NearAmtDealt>
+    <NearCcyDealt>USD</NearCcyDealt>
+    <NearCounterAmt></NearCounterAmt>
+    <NearCounterCcy></NearCounterCcy>
+    <FwdPointsNear></FwdPointsNear>
+    <FarAmtDealt>15006650.00</FarAmtDealt>
+    <FarCcyDealt></FarCcyDealt>
+    <FarCounterAmt></FarCounterAmt>
+    <FarCounterCcy></FarCounterCcy>
+    <FwdPointsFar></FwdPointsFar>
+    <SpotBasisRate></SpotBasisRate>
+    <DepositRate>2.2800</DepositRate>
+    <DayCountType>0</DayCountType>
+    <NewRoll>N</NewRoll>
+    <VolumeOfInterest>6650.00</VolumeOfInterest>
+    <ExchangeRatePeriod1>2.2800</ExchangeRatePeriod1>
+    <ValueDatePeriod1Currency1>20181023</ValueDatePeriod1Currency1>
+    <TenorPeriod1>TODAY</TenorPeriod1>
+    <FixingDatePeriod1>0</FixingDatePeriod1>
+    <FixingSourcePeriod1></FixingSourcePeriod1>
+    <SettleCrncy>USD</SettleCrncy>
+    <SwapRate></SwapRate>
+    <ExchangeRatePeriod2></ExchangeRatePeriod2>
+    <ValueDatePeriod2Currency1>20181030</ValueDatePeriod2Currency1>
+    <TenorPeriod2></TenorPeriod2>
+    <FixingDatePeriod2>0</FixingDatePeriod2>
+    <FixingSourcePeriod2></FixingSourcePeriod2>
+    <SplitTenorCcy1></SplitTenorCcy1>
+    <SplitValueDateCcy1>0</SplitValueDateCcy1>
+    <SplitTenorCCy2></SplitTenorCCy2>
+    <SplitValueDateCcy2>0</SplitValueDateCcy2>
+    <CommentText></CommentText>
+    <NoteName1></NoteName1>
+    <NoteText1></NoteText1>
+    <NoteName2></NoteName2>
+    <NoteText2></NoteText2>
+    <NoteName3></NoteName3>
+    <NoteText3></NoteText3>
+    <NoteName4></NoteName4>
+    <NoteText4></NoteText4>
+    <NoteName5></NoteName5>
+    <NoteText5></NoteText5>
+    <CompQuote1></CompQuote1>
+    <CompDC1></CompDC1>
+    <CompQuote2></CompQuote2>
+    <CompDC2></CompDC2>
+    <CompQuote3></CompQuote3>
+    <CompDC3></CompDC3>
+    <CompQuote4></CompQuote4>
+    <CompDC4></CompDC4>
+    <CompQuote5></CompQuote5>
+    <CompDC5></CompDC5>
+    <Portfolio></Portfolio>
+    <AlocAccount></AlocAccount>
+    <AlocDescription></AlocDescription>
+    <AlocCustodian></AlocCustodian>
+    <AllocPrimeBrokerName></AllocPrimeBrokerName>
+    <RefSpotRate></RefSpotRate>
+    <RefRatePeriod1></RefRatePeriod1>
+    <RefRatePeriod2></RefRatePeriod2>
+    <PayCcy>USD</PayCcy>
+    <PaySWIFT>CHASUS33</PaySWIFT>
+    <PayAccount>786419051</PayAccount>
+    <PayBank>JP MORGAN CHASE BANK NEW YORK</PayBank>
+    <PayBranch>NEW YORK</PayBranch>
+    <PayBeneficiary>Credit Agricole CIB Hong Kong</PayBeneficiary>
+    <PaySpecInstr>OUR BIC CODE: CRLY HKHH</PaySpecInstr>
+    <RecCcy>USD</RecCcy>
+    <RecSWIFT>FRNYUS33</RecSWIFT>
+    <RecAccount>021084830</RecAccount>
+    <RecBank>FEDERAL RESERVE BANK OF NEW YORK</RecBank>
+    <RecBranch></RecBranch>
+    <RecBeneficiary>MALDIVES MONETARY AUTHORITY</RecBeneficiary>
+    <RecSpecInstr>MMAUMVMV</RecSpecInstr>
+    <SpotRateMid></SpotRateMid>
+    <AllinNearMid></AllinNearMid>
+    <NearFwdMid></NearFwdMid>
+    <AllinFarMid></AllinFarMid>
+    <FarFwdPointMid></FarFwdPointMid>
+    <USINamespace></USINamespace>
+    <USI></USI>
+    <USINear></USINear>
+    <DeliveryDate>0</DeliveryDate>
+    <BanknoteRateType>0</BanknoteRateType>
+    <Comission />
+    <ExecutionVenue />
+    <BrokerUUID />
+    <BrokerDealcode />
+    <GroupID />
+    <GroupType />
+    <TradeMethod />
+    <Subtype />
+    <ExternalRef_ID />
+    <ExecutionVenueLEI />
+    <ISIN />
+    <ISIN2 />
+    <ExecWithinFirm_Algo />
+    <ExecWithinFirm_GPI />
+    <ExecWithinFirm_ShortCode />
+    <InvestDecWithinFirm_Algo />
+    <InvestDecWithinFirm_GPI />
+    <InvestDecWithinFirm_ShortCode />
+    <TradingCapacity />
+    <PackageID />
+    <PretradeTransparencyType />
+    <PretradeTransparencyReason />
+    <PosttradeTransparencyType />
+    <PosttradeTransparencyReason />
+    <CommoditiesDIndicator />
+    <SecuritiesFinancingTransaction />
+    <ClientIdentificationCode />
+    <OrdRegTimestamp />
+    <OrdRegTimestampType />
+    <TrdRegTimestamp />
+    <TrdRegTimestampType />
+    <CountryofMembership />
+  </trade>
+  <allocations />
+</TradeConfirmation>

@@ -1,0 +1,10 @@
+c:\users\taago\source\repos\CsvToXmlParser\CsvToXmlParser\bin\Debug\CsvToXmlParser.exe.config
+c:\users\taago\source\repos\CsvToXmlParser\CsvToXmlParser\bin\Debug\CsvToXmlParser.exe
+c:\users\taago\source\repos\CsvToXmlParser\CsvToXmlParser\bin\Debug\CsvToXmlParser.pdb
+c:\users\taago\source\repos\CsvToXmlParser\CsvToXmlParser\bin\Debug\FileHelpers.dll
+c:\users\taago\source\repos\CsvToXmlParser\CsvToXmlParser\bin\Debug\FileHelpers.xml
+c:\users\taago\source\repos\CsvToXmlParser\CsvToXmlParser\obj\Debug\CsvToXmlParser.csprojAssemblyReference.cache
+c:\users\taago\source\repos\CsvToXmlParser\CsvToXmlParser\obj\Debug\CsvToXmlParser.csproj.CoreCompileInputs.cache
+c:\users\taago\source\repos\CsvToXmlParser\CsvToXmlParser\obj\Debug\CsvToXmlParser.csproj.CopyComplete
+c:\users\taago\source\repos\CsvToXmlParser\CsvToXmlParser\obj\Debug\CsvToXmlParser.exe
+c:\users\taago\source\repos\CsvToXmlParser\CsvToXmlParser\obj\Debug\CsvToXmlParser.pdb

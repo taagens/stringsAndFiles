@@ -8,3 +8,13 @@ c:\users\taago\source\repos\CsvToXmlParser\CsvToXmlParser\obj\Debug\CsvToXmlPars
 c:\users\taago\source\repos\CsvToXmlParser\CsvToXmlParser\obj\Debug\CsvToXmlParser.csproj.CopyComplete
 c:\users\taago\source\repos\CsvToXmlParser\CsvToXmlParser\obj\Debug\CsvToXmlParser.exe
 c:\users\taago\source\repos\CsvToXmlParser\CsvToXmlParser\obj\Debug\CsvToXmlParser.pdb
+C:\Users\taago\Source\Repos\stringsAndFiles\CsvToXmlParser\bin\Debug\CsvToXmlParser.exe.config
+C:\Users\taago\Source\Repos\stringsAndFiles\CsvToXmlParser\bin\Debug\CsvToXmlParser.exe
+C:\Users\taago\Source\Repos\stringsAndFiles\CsvToXmlParser\bin\Debug\CsvToXmlParser.pdb
+C:\Users\taago\Source\Repos\stringsAndFiles\CsvToXmlParser\bin\Debug\FileHelpers.dll
+C:\Users\taago\Source\Repos\stringsAndFiles\CsvToXmlParser\bin\Debug\FileHelpers.xml
+C:\Users\taago\Source\Repos\stringsAndFiles\CsvToXmlParser\obj\Debug\CsvToXmlParser.csprojAssemblyReference.cache
+C:\Users\taago\Source\Repos\stringsAndFiles\CsvToXmlParser\obj\Debug\CsvToXmlParser.csproj.CoreCompileInputs.cache
+C:\Users\taago\Source\Repos\stringsAndFiles\CsvToXmlParser\obj\Debug\CsvToXmlParser.csproj.CopyComplete
+C:\Users\taago\Source\Repos\stringsAndFiles\CsvToXmlParser\obj\Debug\CsvToXmlParser.exe
+C:\Users\taago\Source\Repos\stringsAndFiles\CsvToXmlParser\obj\Debug\CsvToXmlParser.pdb

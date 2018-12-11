@@ -15,7 +15,7 @@ namespace CsvToXmlParser
         {
             //DirectoryInfo d = new DirectoryInfo("2017");   //(@"C:\Users\taago\Documents\Praktikalt\2017");
             DirectoryInfo d = new DirectoryInfo(@"C:\Users\taago\Documents\Praktikalt\2017");
-            d.CreateSubdirectory("XML");
+            d.CreateSubdirectory("XMLDEALs");
             FileInfo[] infos = d.GetFiles();
             int counter = 0;
 
@@ -177,6 +177,24 @@ namespace CsvToXmlParser
                  XDocument result = new XDocument(deal);
                 //result.Save(f.FullName.Replace(".csv", ".xml").Replace("DEAL", "XMLDEAL"));
                 counter++;
+            }
+
+            string sourceDirectory = @"C:\Users\taago\Documents\Praktikalt\2017";
+            string archiveDirectory = @"C:\Users\taago\Documents\Praktikalt\2017\XMLDEALs";
+
+            try
+            {
+                var xmlFiles = Directory.EnumerateFiles(sourceDirectory, "*.xml");
+
+                foreach (string currentFile in xmlFiles)
+                {
+                    string fileName = currentFile.Substring(sourceDirectory.Length + 1);
+                    Directory.Move(currentFile, Path.Combine(archiveDirectory, fileName));
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
             }
 
             //DirectoryInfo d = new DirectoryInfo(@"C:\Users\taago\Documents\Praktikalt\2017");
